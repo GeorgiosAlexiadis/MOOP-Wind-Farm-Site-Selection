@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains materials related to my bachelor's thesis, which focuses on selecting optimal locations for offshore wind farms using advanced multi-objective optimization methods. Specifically, the study addresses the optimization problem within the Exclusive Economic Zone (EEZ) of the Kaliningrad region, leveraging evolutionary algorithms and spatial data analysis.
+This repository contains materials related to my bachelor's thesis, which focuses on selecting optimal locations for offshore wind farms using advanced multi-objective optimization methods. Specifically, the study addresses the optimization problem within the Exclusive Economic Zone (EEZ) of the Kaliningrad region, leveraging evolutionary algorithms and spatial data analysis. 
+
+The primary file for this project is **MOOP Wind Farm Site Selection.ipynb**. To view the contents of this file and replicate the analysis, please download it. All files used in the process are also attached.
 
 ## Objectives
 
